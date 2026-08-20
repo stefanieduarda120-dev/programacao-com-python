@@ -1,15 +1,15 @@
-comando = "Equipar foice"
-partes = comando.split()
+frase = "Tatu bola é legal ele tem formato de bola"
+frase_nova = frase.replace("bola", "batata", 1)
+print (frase)
+print("Trocando.... ")
+print (frase_nova)
 
-print(partes[0])
-print(partes[-1]) #Para achar o ultimo numero pode se usar -1 o penultimo -2 e....
+preco = "RS10,00"
+leve = preco.replace("RS", "")
+print(preco)
+print(leve)
 
-acao = partes[0]
-item = partes[1]
-
-if acao == "Equipar":
-    print(f"Equipando {item}")
-elif acao == "Desequipar":
-    print(f"Desequipar {item}")
-else:
-    print("Comando desconhecido!")
+texto = "banana banana banana"
+maca = texto.replace("banana", "maça", 2)
+print(texto)
+print(maca)
