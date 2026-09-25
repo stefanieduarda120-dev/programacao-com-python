@@ -1,2 +1,7 @@
-# programacao-com-python
-Repositório para registrar atividades da disciplina de Programação com Python | 2026
+#Titulo
+## subtítulo
+negrito
+italico
+lista 
+lista 
+´´´ print(“Ola, mundo”)```
