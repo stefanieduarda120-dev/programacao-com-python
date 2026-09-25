@@ -1,7 +1,7 @@
 #Titulo
 ## subtítulo
 **negrito**
-*italico*
+*itálico*
 -lista 
 -lista 
-´´´ print(“Ola, mundo”)```
+´´´ print(“Ola, mundo”) ```
